@@ -1,0 +1,32 @@
+                                  
+               ! Po walce lub ominieciu !  
+
+Po calym zajsciu kontynulujecie swoja wedrowke wedlug ustalonego planu.
+
+Podrozowaliscie juz dlugo. Jeden z towarzyszy  podsunal ciekawy pomysl.
+
+          
+-Krasnolud: Dobra, jestem juz troche zmeczony, moze rozbijemy tutaj oboz i czegos sie napijemy ?
+
+
+                                 <WYBOR>       
+
+-Nie mamy czasu na postoj.              |		     -Mysle ze pare godzin snu zawsze sie przyda.     
+					|	
+Wiec idziecie dalej.			|
+					|			Zaozyliscie oboz i poszliscie spac.
+Nagle wpadliscie w zasadzke orkow.      |                  Nagle ze snu wybudzaja Cie jakies glosy.
+                                        |                 Okazuje sie ¿e orki zaatakowaly was orki.
+
+
+
+                                   Musice sie bronic.
+
+                                 <WALKA>
+
+
+Po wygranej walce wspolnie zdecydowaliscie ze nie ma na co czekac i wyruszyliscie dalej.
+Na rozwidleniu drog przebiegajacych obok wsi znalezliscie bogato wyposazony sklep.
+Postanowiliscie wejsc do srodka i obejrzec dostepny do kupna orez.
+
+				<SKLEP>
